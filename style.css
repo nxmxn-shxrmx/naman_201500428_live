@@ -1,0 +1,154 @@
+
+.resize
+{
+    width: 4%;
+    margin-right:300px;
+}
+.nacc
+{
+    box-shadow: 100px;
+    padding-bottom: 25px;
+}
+.our
+{
+    margin-top: 30px;
+    font-weight: 400;
+    text-align: center;
+    
+}
+.suv
+{
+    font-weight: 300;
+    font-size: 18px;
+    text-align: center;
+}
+.se 
+{
+   
+    color: white;
+    font-weight: bold;
+}
+.ser
+{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    background-color: red;
+}
+.reco:hover
+{
+color: red;
+}
+.reco
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-right:35px;
+    color: black;
+    font-size: 21px;
+}
+.read
+{
+    text-decoration: none;
+    padding-left:14px ;
+    position: absolute;
+    color: red;
+}
+ .triangle{
+    text-align: center;
+        width: 0;
+        height: 0;
+        border-bottom: 100px solid red;
+        border-left: 100px solid transparent;
+        position: relative;
+        margin-left:266px;
+      }
+      .cardbox
+      {
+        text-align:center;
+        margin-top: 50px;
+        
+      }
+  .c1
+  {
+    display:inline-block;
+    width: 23rem;
+    margin-right: 25px;
+    padding: 0;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+  }
+  
+ 
+  .card-body 
+  {
+    text-align: left;
+    padding: 0;
+   
+  }
+   .card-title
+  {
+    margin-top: 10px;
+    padding-left: 14px;
+  }
+  .card-text 
+  {
+    text-align: left;
+    padding: 14px;
+    margin-bottom: 1px;
+  }
+  .c2
+  {
+    display: inline-block;
+    width: 23rem;
+    margin-right: 25px;
+    padding: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .c3
+  {
+    display: inline-block;
+    padding: 0;
+    width: 23rem;
+    margin-right: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+.rr
+{
+    font-weight: bolder;
+    font-size: 20px;
+}
+footer
+{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.card-img-top
+{
+    height: 27vh;
+    
+}
+
+.name
+{
+    display: inline-block;
+    margin-right:100px ;
+}
+.roll
+{
+    display: inline-block;
+    margin-right:100px ;
+}
+.college
+{
+    display: inline-block;
+    margin-right:100px ;
+}
+.date
+{
+    display: inline-block;
+    margin-right:100px ;
+}
